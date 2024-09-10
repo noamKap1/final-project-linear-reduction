@@ -1,0 +1,79 @@
+fibonacci(80), Noam Ocaml - Average time (300 runs): 0.034592 seconds
+fibonacci(80), Ari Ocaml - Average time (300 runs): 0.015102 seconds
+fibonacci(80), python - Average time (300 runs): 0.000305 seconds
+fibonacci(80), java - Average time (300 runs): 0.084893 seconds
+
+curry(150, 25000), Ari Ocaml - Average time (300 runs): 0.002701 seconds
+curry(150, 25000), Noam Ocaml - Average time (300 runs): 0.046703 seconds
+curry(150, 25000), python - Average time (300 runs): 0.000293 seconds
+curry(150, 25000), java - Average time (300 runs): 0.096590 seconds
+
+lists_and_products(values in file), Noam Ocaml - Average time (300 runs): 0.061267 seconds
+lists_and_products(values in file), Ari Ocaml - Average time (300 runs): 0.004311 seconds
+lists_and_products(values in file), python - Average time (300 runs): 0.000738 seconds
+lists_and_products(values in file), java - Average time (300 runs): 0.108800 seconds
+
+
+
+Ari Ocaml with generated code:
+Iteration 1: Average execution time: 0.002476 seconds
+Iteration 2: Average execution time: 0.002514 seconds
+Iteration 3: Average execution time: 0.002699 seconds
+Iteration 4: Average execution time: 0.003349 seconds
+Iteration 5: Average execution time: 0.009844 seconds
+Iteration 6: Average execution time: 0.081948 seconds
+Iteration 7: Average execution time: 0.734832 seconds
+
+
+Noam Ocaml with generated code:
+Iteration 1: Average execution time: 0.037553 seconds
+Iteration 2: Average execution time: 0.038140 seconds
+Iteration 3: Average execution time: 0.039444 seconds
+Iteration 4: Average execution time: 0.048104 seconds
+Iteration 5: Average execution time: 0.086970 seconds
+Iteration 6: Average execution time: 0.347350 seconds
+Iteration 7: Average execution time: 2.170673 seconds
+
+Ari Ocaml with generated code:
+Iteration 1: Average execution time: 0.002686 seconds
+Iteration 2: Average execution time: 0.002642 seconds
+Iteration 3: Average execution time: 0.003019 seconds
+Iteration 4: Average execution time: 0.003026 seconds
+Iteration 5: Average execution time: 0.003242 seconds
+Iteration 6: Average execution time: 0.003727 seconds
+Iteration 7: Average execution time: 0.004414 seconds
+Iteration 8: Average execution time: 0.005032 seconds
+Iteration 9: Average execution time: 0.006049 seconds
+Iteration 10: Average execution time: 0.007473 seconds
+Iteration 11: Average execution time: 0.010167 seconds
+Iteration 12: Average execution time: 0.014454 seconds
+Iteration 13: Average execution time: 0.020409 seconds
+Iteration 14: Average execution time: 0.030237 seconds
+Iteration 15: Average execution time: 0.047062 seconds
+Iteration 16: Average execution time: 0.072680 seconds
+Iteration 17: Average execution time: 0.111291 seconds
+Iteration 18: Average execution time: 0.183062 seconds
+Iteration 19: Average execution time: 0.292920 seconds
+Iteration 20: Average execution time: 0.470810 seconds
+
+Noam Ocaml with generated code:
+Iteration 1: Average execution time: 0.044205 seconds
+Iteration 2: Average execution time: 0.044282 seconds
+Iteration 3: Average execution time: 0.043749 seconds
+Iteration 4: Average execution time: 0.044446 seconds
+Iteration 5: Average execution time: 0.043535 seconds
+Iteration 6: Average execution time: 0.044056 seconds
+Iteration 7: Average execution time: 0.043492 seconds
+Iteration 8: Average execution time: 0.043511 seconds
+Iteration 9: Average execution time: 0.044685 seconds
+Iteration 10: Average execution time: 0.043889 seconds
+Iteration 11: Average execution time: 0.043663 seconds
+Iteration 12: Average execution time: 0.049215 seconds
+Iteration 13: Average execution time: 0.060867 seconds
+Iteration 14: Average execution time: 0.060352 seconds
+Iteration 15: Average execution time: 0.060663 seconds
+Iteration 16: Average execution time: 0.064621 seconds
+Iteration 17: Average execution time: 0.055344 seconds
+Iteration 18: Average execution time: 0.048743 seconds
+Iteration 19: Average execution time: 0.043764 seconds
+Iteration 20: Average execution time: 0.045098 seconds
