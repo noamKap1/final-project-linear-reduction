@@ -37,15 +37,10 @@ To run a model 300 times and measure average execution time:
 Example output:
 ```
 Average execution time: 0.016490 seconds
-```
-
-To run a model 500 times and save execution times:
-
-```bash
 Ran combine_tool.ml 500 times and saved execution times to execution_times.txt
 ```
 
-View the saved execution times:
+And then you can view the saved execution times:
 ```bash
 cat < execution_times.txt
 ```
