@@ -144,21 +144,5 @@ You helped as a lot and made the project fun to work on.
 
 Thank You!
 
-Here's a small OCaml-inspired doodle to brighten your day:
-
-```
-   /\o/\
-  /o/\o\
- /=\/=\/\
- /==/\==\
-|   ||   |
-|   ||   |
-|   ||   |
-|___||___|
- OCaml!
-```
-
-Thank you for making our OCaml journey both educational and fun.
-
 Best regards,
 Ari Feiglin and Noam Kaplinski
