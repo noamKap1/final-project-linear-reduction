@@ -131,3 +131,34 @@ ocamlc -o runAvg unix.cma runAvg.ml
    - It's similar to the first command but for a different source file.
 
 These compilation commands create the necessary executables for running and benchmarking the models in the project.
+
+## Note to Yoni
+
+Dear Yoni,
+
+We wanted to say thank you for guiding us through the progect and the year itself. Your enthusiasm made even the most complex concepts engaging and accessible.
+
+We appreciate how you fostered a collaborative environment, making our work productive and enjoyable. 
+
+You helped as a lot and made the project fun to work on.
+
+Thank You!
+
+Here's a small OCaml-inspired doodle to brighten your day:
+
+```
+   /\o/\
+  /o/\o\
+ /=\/=\/\
+ /==/\==\
+|   ||   |
+|   ||   |
+|   ||   |
+|___||___|
+ OCaml!
+```
+
+Thank you for making our OCaml journey both educational and fun.
+
+Best regards,
+Ari Feiglin and Noam Kaplinski
