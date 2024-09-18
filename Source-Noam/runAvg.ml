@@ -26,8 +26,6 @@ let () =
       printf "Error: Command failed with code %d\n" result;
       exit 1
     );
-    printf "Run %d: Total execution time: %.6f seconds\n" i elapsed_time;
     times := elapsed_time :: !times
   done;
-  let avg_time = average (List.rev !times) in
-  printf "Average execution time over %d runs: %.6f seconds\n" num_runs avg_time
+
