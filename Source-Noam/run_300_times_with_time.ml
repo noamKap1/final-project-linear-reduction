@@ -39,4 +39,4 @@ let () =
   let output_file = "execution_times.txt" in  (* All execution times will go here *)
   let iterations = 500 in
   run_multiple_times input_file iterations output_file;
-  Printf.printf "Ran combine_tool.ml %d times and saved execution times to %s\n" iterations output_file;
+  Printf.printf "Ranned the model %d times and saved execution times to %s\n" iterations output_file;
