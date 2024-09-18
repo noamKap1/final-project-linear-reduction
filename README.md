@@ -70,11 +70,11 @@ To switch between models:
    nano runAvg.ml
    ```
 Change the line:
-   ```ocaml
+   ```bash
    let command = Printf.sprintf "./combined_tool %s" input_file in
    ```
    to:
-   ```ocaml
+   ```bash
    let command = Printf.sprintf "./main %s y" input_file in
    ```
    (or vice versa)
@@ -84,11 +84,11 @@ and then recompile.
    nano run_300_times_with_time.ml
    ```
 change the line:
-   ```ocaml
+   ```bash
      let command = Printf.sprintf "./main %s y> /dev/null" input_file in
    ```
    to:
-   ```ocaml
+   ```bash
      let command = Printf.sprintf "./combined_tool %s> /dev/null" input_file in
    ```
    (or vice versa)
