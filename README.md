@@ -80,7 +80,7 @@ Change the line:
    (or vice versa)
 and then recompile.
 2. To edit the `run_300_times_with_time` file:
-    ```bash
+   ```bash
    nano run_300_times_with_time.ml
    ```
 change the line:
